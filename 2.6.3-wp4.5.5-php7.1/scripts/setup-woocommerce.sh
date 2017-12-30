@@ -1,4 +1,4 @@
-sleep 30
+sleep 60
 
 wp plugin install woocommerce --version=$WOOCOMMERCE_VERSION --allow-root --activate
 wp theme install storefront --allow-root --activate 
