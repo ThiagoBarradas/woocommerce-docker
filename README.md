@@ -7,7 +7,7 @@ All in one container (PHP + MySQL + Apache + Wordpress + WooCommerce with Sample
 See more about this images in:
 [https://hub.docker.com/r/thiagobarradas/woocommerce](https://hub.docker.com/r/thiagobarradas/woocommerce/)
 
-## Do you liked? Please, make a donate :v:
+### Did you like it? Please, make a donate :)
 
 if you liked this project, please make a contribution and help to keep this and other initiatives, send me some Satochis.
 
