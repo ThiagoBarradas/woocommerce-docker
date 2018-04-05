@@ -1,6 +1,6 @@
 ## WooCommerce Docker 
 
-All in one container (PHP + MySQL + Apache + Wordpress + WooCommerce) for testing
+All in one container (PHP + MySQL + Apache + Wordpress + WooCommerce with Sample Data) for testing
 
 ## Docker Hub
 
