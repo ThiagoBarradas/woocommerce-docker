@@ -5,6 +5,7 @@ MAINTAINER Thiago Barradas <th.barradas@gmail.com>
 ENV WOOCOMMERCE_VERSION=3.2.6
 
 # COPY SCRIPT TO SETUP WOOCOMMERCE
+COPY .htaccess .htaccess
 COPY scripts/supervisord-zwoocommerce.conf /etc/supervisor/conf.d/supervisord-zwoocommerce.conf
 COPY scripts/setup-woocommerce.sh /setup-woocommerce.sh
 COPY scripts/setup-wizard-woocommerce.php /setup-wizard-woocommerce.php
